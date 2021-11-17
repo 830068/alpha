@@ -1,4 +1,7 @@
-This is Recipes text file
+Welcome to Recipes text file
+
 Noodles
 Chiken Rice
-curd rice :)
+curd rice
+
+Thank you :)
